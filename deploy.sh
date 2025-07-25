@@ -7,6 +7,8 @@ set -e
 
 echo "Starting deployment..."
 
+# Update what to deploy script here
+
 # Force pull latest changes
 # git reset --hard HEAD
 git pull --force

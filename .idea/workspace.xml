@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8d1f5ec-033e-4aed-b28e-8b0555568dfd" name="Changes" comment="Add .idea" />
+    <list default="true" id="d8d1f5ec-033e-4aed-b28e-8b0555568dfd" name="Changes" comment="Add requirements.txt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +18,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="30LuF3pAoFlWf1xiDK7AB1wF1Lm" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,6 +32,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -56,6 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753419066985</updated>
       <workItem from="1753419068093" duration="877000" />
+      <workItem from="1753419952824" duration="402000" />
     </task>
     <task id="LOCAL-00001" summary="Add requirements.txt">
       <option name="closed" value="true" />
@@ -73,7 +75,39 @@
       <option name="project" value="LOCAL" />
       <updated>1753419798879</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1753419988179</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1753419988179</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1753420078974</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753420078974</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1753420107595</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1753420107595</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add requirements.txt">
+      <option name="closed" value="true" />
+      <created>1753420193788</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753420193788</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -99,15 +133,27 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add requirements.txt" />
     <MESSAGE value="Add .idea" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add .idea" />
+    <MESSAGE value="Add requirements.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add requirements.txt" />
   </component>
 </project>

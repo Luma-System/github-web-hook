@@ -5,16 +5,23 @@
 # Fail on error
 set -e
 
-echo "Starting deployment..."
+DATE=$(date +%F)
+LOG_FILE="./logs/deployments/$DATE.log"
+mkdir -p "$(dirname "$LOG_FILE")"
+
+echo "==============================================================================" >> $LOG_FILE
+echo "Starting deployment..." >> $LOG_FILE
 
 # Update what to deploy script here
 
 # Force pull latest changes
 # git reset --hard HEAD
-git pull --force
+# git pull --force
 
 # Rebuild and restart containers
 # docker compose up --build -d
+
+env | grep '^REPO' >> $LOG_FILE
 
 echo "Deployment complete."
 
